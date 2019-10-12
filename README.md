@@ -9,7 +9,7 @@
 
 ## Project Motivation <a name="motivation"></a>
 
-For this project, I analyzed the interactions that users have with articles on the IBM Watson Studio platform, 
+For this project, I analyzed the interactions that users have with articles on the [IBM Watson Studio platform](https://www.ibm.com/cloud/watson-studio), 
 and made recommendations to them about new articles they might like. 
 
 ## File Descriptions <a name="files"></a>
